@@ -2,7 +2,7 @@
   font-family: Helvetica;
 }
 
-* {
+h1, h2, h3, p {
   text-align: center;
 }
 
@@ -17,4 +17,15 @@ h1 {
 
 .white {
   color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
